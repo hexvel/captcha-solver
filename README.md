@@ -14,9 +14,9 @@ CaptchaSolver - это библиотека для Python, которая поз
 
 Пример использования CaptchaSolver:
 
+```py
 from solver import CaptchaSolver
 
-```py
 async def main():
     # Создание экземпляра класса CaptchaSolver
     solver = CaptchaSolver(
